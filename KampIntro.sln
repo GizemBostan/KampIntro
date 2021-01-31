@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		SQLIntro.sql = SQLIntro.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{8599E442-B2F1-40B1-9490-39A193FF939C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{1476FA7D-5005-431E-8693-D7548153A959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1476FA7D-5005-431E-8693-D7548153A959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1476FA7D-5005-431E-8693-D7548153A959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8599E442-B2F1-40B1-9490-39A193FF939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8599E442-B2F1-40B1-9490-39A193FF939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8599E442-B2F1-40B1-9490-39A193FF939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8599E442-B2F1-40B1-9490-39A193FF939C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
